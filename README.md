@@ -11,5 +11,5 @@ chmod +x connect_fastest.py
 
 ```
 sudo pip install regex speetest-cli
-python connect_fastest.py
+python3 connect_fastest.py
 ```
