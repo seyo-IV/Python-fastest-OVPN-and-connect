@@ -8,7 +8,8 @@ cd Python-fastest-OVPN-and-connect
 chmod +x connect_fastest.py
 ```
 
-(Just replace your_username, your_password and vpn_dir and your good to go.)
+
 ```
+sudo pip install regex speetest-cli
 python connect_fastest.py
 ```
